@@ -33,11 +33,19 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate Computer Science undergraduate with a strong foundation in design thinking and full-stack web development. I love turning ideas into clean, intuitive interfaces and building applications that solve real problems — blending visual design sensibility with solid engineering practices. I'm currently sharpening my skills in software development and actively looking for opportunities to contribute to meaningful, user-focused products.
-
-- 🎯 **Career Goals:** Seeking internship/full-time opportunities as a Frontend Developer, UI/UX Designer, or Full Stack Engineer where I can design and build impactful digital products.
-- 💡 **Interests:** UI/UX Design • Web Development • [Interest 3]
-- 🎉 **Fun Fact:** [Add something memorable about you]
+```javascript
+const vasavi = {
+    location: "[City], India 🇮🇳",
+    education: "[Degree, e.g. B.Tech CSE] - [Year, e.g. Final Year] @ [University Name]",
+    role: "Computer Science Undergraduate | UI/UX Designer | Web Developer | Aspiring Software Engineer",
+    currentFocus: ["[Technology 1]", "[Technology 2]", "[Technology 3]"],
+    passion: ["UI/UX Design", "Web Development", "[Interest 3]"],
+    superpower: "[e.g. Patience + Creative Problem Solving]",
+    motto: "[Add a one-line motto that reflects you]",
+    funFact: "[Add something memorable about you]",
+    openTo: ["Open-source projects", "Freelance opportunities", "Research projects", "Startup ideas"]
+};
+```
 
 ---
 
